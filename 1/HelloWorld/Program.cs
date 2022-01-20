@@ -1,5 +1,5 @@
-﻿// A REPL of this program can be found at https://replit.com/@mb1122/Learning-C-REPL1?c=171590
-// The most up-to-date version of this program can be found at 
+﻿// A REPL of this program can be found at https://replit.com/@mb1122/Learning-C-REPL1
+// The most up-to-date version of this program can be found at https://github.com/Mvb1122/C-Sharp-Projects/blob/main/1/HelloWorld/Program.cs
 
 // C#, what is it?
 // C# was invented in 2000 when Anders Hejlsberg from Microsoft decided that we didn't have enough programming languages and so decided that it would be funny if he made one.
