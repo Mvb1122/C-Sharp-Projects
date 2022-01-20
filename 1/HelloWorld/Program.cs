@@ -2,19 +2,19 @@
 // The most up-to-date version of this program can be found at https://github.com/Mvb1122/C-Sharp-Projects/blob/main/1/HelloWorld/Program.cs
 
 // C#, what is it?
-// C# was invented in 2000 when Anders Hejlsberg from Microsoft decided that we didn't have enough programming languages and so decided that it would be funny if he made one.
-// EMCA later approved the language and it has since been a standard for computing. C# is a little bit slower than C++, and even moreso slower than C. In relation to Java, it's about the same speed, except a little bit slower.
-// C# is slower to compile than Java, too.
-// Overall, to a Java user, it seems like it's basically the same thing, except "import" is replaced with "using" and namespaces are a thing.
+    // C# was invented in 2000 when Anders Hejlsberg from Microsoft decided that we didn't have enough programming languages and so decided that it would be funny if he made one.
+    // EMCA later approved the language and it has since been a standard for computing. C# is a little bit slower than C++, and even moreso slower than C. In relation to Java, it's a little bit slower.
+        // C# is slower to compile than Java, too.
+    // Overall, to a Java user, it seems like it's basically the same thing, except "import" is replaced with "using" and namespaces are a thing.
 
 // Why is it C# and not C-Flat? How does it relate to C++ and C itself?
-// C# is Microsoft's version of C++, which is to say that it's C, except with classes.
+    // C# is Microsoft's version of C++, which is to say that it's C, except with classes.
 
 
 // Here's the standard "Hello World" program:
-// Although I also edited it just a little bit to show off readign from the console.
-// The "using System" line here says that the program should be compiled with the Console and other standard libraries, a little like <using namespace std> does in C++, or like importing java.lang.* does in Java.
-// Note that, for C# at least, you **have** to use System in order to use the Console.
+    // Although I also edited it just a little bit to show off readign from the console.
+    // The "using System" line here says that the program should be compiled with the Console and other standard libraries, a little like <using namespace std> does in C++, or like importing java.lang.* does in Java.
+    // Note that, for C# at least, you **have** to use System in order to use the Console.
 using System;
 
     // This "namespace HelloWorld" line declares that this program takes place in the HelloWorld namespace-- that this group of classes and methods can be used by simply "using HelloWorld", but we'll get to that later.

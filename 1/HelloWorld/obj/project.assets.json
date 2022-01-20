@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\drphi\\Desktop\\Everything that's not Star Citizen\\C#-Projects\\1\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\drphi\\Desktop\\Everything that's not Star Citizen\\C-Sharp-Projects\\1\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\drphi\\Desktop\\Everything that's not Star Citizen\\C#-Projects\\1\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "C:\\Users\\drphi\\Desktop\\Everything that's not Star Citizen\\C-Sharp-Projects\\1\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\drphi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\drphi\\Desktop\\Everything that's not Star Citizen\\C#-Projects\\1\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\drphi\\Desktop\\Everything that's not Star Citizen\\C-Sharp-Projects\\1\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\drphi\\AppData\\Roaming\\NuGet\\NuGet.Config",
