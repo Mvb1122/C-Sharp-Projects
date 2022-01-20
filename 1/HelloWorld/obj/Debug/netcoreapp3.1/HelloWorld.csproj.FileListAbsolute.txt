@@ -1,0 +1,14 @@
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C#-Projects\1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C#-Projects\1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C#-Projects\1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C#-Projects\1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C#-Projects\1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C#-Projects\1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C#-Projects\1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C#-Projects\1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C#-Projects\1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C#-Projects\1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C#-Projects\1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C#-Projects\1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C#-Projects\1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C#-Projects\1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache

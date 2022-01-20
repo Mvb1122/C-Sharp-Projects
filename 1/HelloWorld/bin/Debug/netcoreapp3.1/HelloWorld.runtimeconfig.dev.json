@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\drphi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\drphi\\.nuget\\packages"
+    ]
+  }
+}
