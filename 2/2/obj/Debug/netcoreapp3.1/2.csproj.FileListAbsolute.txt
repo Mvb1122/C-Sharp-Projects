@@ -1,0 +1,14 @@
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\2\2\bin\Debug\netcoreapp3.1\2.exe
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\2\2\bin\Debug\netcoreapp3.1\2.deps.json
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\2\2\bin\Debug\netcoreapp3.1\2.runtimeconfig.json
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\2\2\bin\Debug\netcoreapp3.1\2.runtimeconfig.dev.json
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\2\2\bin\Debug\netcoreapp3.1\2.dll
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\2\2\bin\Debug\netcoreapp3.1\2.pdb
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\2\2\obj\Debug\netcoreapp3.1\2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\2\2\obj\Debug\netcoreapp3.1\2.AssemblyInfoInputs.cache
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\2\2\obj\Debug\netcoreapp3.1\2.AssemblyInfo.cs
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\2\2\obj\Debug\netcoreapp3.1\2.csproj.CoreCompileInputs.cache
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\2\2\obj\Debug\netcoreapp3.1\2.dll
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\2\2\obj\Debug\netcoreapp3.1\2.pdb
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\2\2\obj\Debug\netcoreapp3.1\2.genruntimeconfig.cache
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\2\2\obj\Debug\netcoreapp3.1\2.csproj.AssemblyReference.cache
