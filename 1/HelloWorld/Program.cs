@@ -3,7 +3,7 @@
 
 // C#, what is it?
     // C# was invented in 2000 when Anders Hejlsberg from Microsoft decided that we didn't have enough programming languages and so decided that it would be funny if he made one.
-    // EMCA later approved the language and it has since been a standard for computing. C# is a little bit slower than C++, and even moreso slower than C. In relation to Java, it's a little bit slower.
+    // ECMA later approved the language and it has since been a standard for computing. C# is a little bit slower than C++, and even moreso slower than C. In relation to Java, it's a little bit slower.
         // C# is slower to compile than Java, too.
     // Overall, to a Java user, it seems like it's basically the same thing, except "import" is replaced with "using" and namespaces are a thing.
 
