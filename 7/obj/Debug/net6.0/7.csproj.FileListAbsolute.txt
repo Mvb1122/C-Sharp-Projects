@@ -1,0 +1,15 @@
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\7\bin\Debug\net6.0\7.exe
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\7\bin\Debug\net6.0\7.deps.json
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\7\bin\Debug\net6.0\7.runtimeconfig.json
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\7\bin\Debug\net6.0\7.dll
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\7\bin\Debug\net6.0\ref\7.dll
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\7\bin\Debug\net6.0\7.pdb
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\7\obj\Debug\net6.0\7.csproj.AssemblyReference.cache
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\7\obj\Debug\net6.0\7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\7\obj\Debug\net6.0\7.AssemblyInfoInputs.cache
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\7\obj\Debug\net6.0\7.AssemblyInfo.cs
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\7\obj\Debug\net6.0\7.csproj.CoreCompileInputs.cache
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\7\obj\Debug\net6.0\7.dll
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\7\obj\Debug\net6.0\ref\7.dll
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\7\obj\Debug\net6.0\7.pdb
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\7\obj\Debug\net6.0\7.genruntimeconfig.cache

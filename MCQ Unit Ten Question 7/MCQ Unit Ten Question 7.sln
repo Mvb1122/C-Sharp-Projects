@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCQ Unit Ten Question 7", "MCQ Unit Ten Question 7.csproj", "{437418CD-C2D1-4FBF-AD30-E3D1E871A816}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{437418CD-C2D1-4FBF-AD30-E3D1E871A816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437418CD-C2D1-4FBF-AD30-E3D1E871A816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437418CD-C2D1-4FBF-AD30-E3D1E871A816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437418CD-C2D1-4FBF-AD30-E3D1E871A816}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1981964D-C01D-49D6-89ED-4209A9F95BD6}
+	EndGlobalSection
+EndGlobal
