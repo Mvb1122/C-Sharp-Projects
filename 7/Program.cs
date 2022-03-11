@@ -120,6 +120,8 @@ namespace _7
 
     // We could then call one of the methods of the class like this:
             Console.WriteLine($"My id is {me.getID()}");
+
+            Console.WriteLine("Make sure to check out the code!");
         }
     }
 

@@ -1,0 +1,15 @@
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Interfaces_Demo\bin\Debug\net6.0\Interfaces_Demo.exe
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Interfaces_Demo\bin\Debug\net6.0\Interfaces_Demo.deps.json
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Interfaces_Demo\bin\Debug\net6.0\Interfaces_Demo.runtimeconfig.json
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Interfaces_Demo\bin\Debug\net6.0\Interfaces_Demo.dll
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Interfaces_Demo\bin\Debug\net6.0\Interfaces_Demo.pdb
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Interfaces_Demo\obj\Debug\net6.0\Interfaces_Demo.csproj.AssemblyReference.cache
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Interfaces_Demo\obj\Debug\net6.0\Interfaces_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Interfaces_Demo\obj\Debug\net6.0\Interfaces_Demo.AssemblyInfoInputs.cache
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Interfaces_Demo\obj\Debug\net6.0\Interfaces_Demo.AssemblyInfo.cs
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Interfaces_Demo\obj\Debug\net6.0\Interfaces_Demo.csproj.CoreCompileInputs.cache
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Interfaces_Demo\obj\Debug\net6.0\Interfaces_Demo.dll
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Interfaces_Demo\obj\Debug\net6.0\refint\Interfaces_Demo.dll
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Interfaces_Demo\obj\Debug\net6.0\Interfaces_Demo.pdb
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Interfaces_Demo\obj\Debug\net6.0\Interfaces_Demo.genruntimeconfig.cache
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Interfaces_Demo\obj\Debug\net6.0\ref\Interfaces_Demo.dll
