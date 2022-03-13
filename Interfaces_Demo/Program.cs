@@ -1,4 +1,5 @@
-﻿using System;
+﻿// BTW, this isn't part of the "Learning C#" series, so there's no REPL here.
+using System;
 
 namespace Interfaces_Demo
 {
@@ -33,6 +34,7 @@ namespace Interfaces_Demo
     public class Paper : IRecyclable
     {
         readonly int num;
+
         public bool IsRecyclable()
         {
             return num == 1;
