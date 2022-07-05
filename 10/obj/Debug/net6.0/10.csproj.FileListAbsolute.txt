@@ -1,0 +1,15 @@
+/home/micah/Desktop/C# Projects/10/bin/Debug/net6.0/10
+/home/micah/Desktop/C# Projects/10/bin/Debug/net6.0/10.deps.json
+/home/micah/Desktop/C# Projects/10/bin/Debug/net6.0/10.runtimeconfig.json
+/home/micah/Desktop/C# Projects/10/bin/Debug/net6.0/10.dll
+/home/micah/Desktop/C# Projects/10/bin/Debug/net6.0/10.pdb
+/home/micah/Desktop/C# Projects/10/obj/Debug/net6.0/10.csproj.AssemblyReference.cache
+/home/micah/Desktop/C# Projects/10/obj/Debug/net6.0/10.GeneratedMSBuildEditorConfig.editorconfig
+/home/micah/Desktop/C# Projects/10/obj/Debug/net6.0/10.AssemblyInfoInputs.cache
+/home/micah/Desktop/C# Projects/10/obj/Debug/net6.0/10.AssemblyInfo.cs
+/home/micah/Desktop/C# Projects/10/obj/Debug/net6.0/10.csproj.CoreCompileInputs.cache
+/home/micah/Desktop/C# Projects/10/obj/Debug/net6.0/10.dll
+/home/micah/Desktop/C# Projects/10/obj/Debug/net6.0/refint/10.dll
+/home/micah/Desktop/C# Projects/10/obj/Debug/net6.0/10.pdb
+/home/micah/Desktop/C# Projects/10/obj/Debug/net6.0/10.genruntimeconfig.cache
+/home/micah/Desktop/C# Projects/10/obj/Debug/net6.0/ref/10.dll

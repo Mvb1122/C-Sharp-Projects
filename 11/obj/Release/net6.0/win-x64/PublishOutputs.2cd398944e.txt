@@ -1,0 +1,2 @@
+/home/micah/Desktop/C# Projects/11/c:/test/11.pdb
+/home/micah/Desktop/C# Projects/11/c:/test/11.exe

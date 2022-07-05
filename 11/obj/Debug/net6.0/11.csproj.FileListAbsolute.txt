@@ -1,0 +1,15 @@
+/home/micah/Desktop/C# Projects/11/bin/Debug/net6.0/11
+/home/micah/Desktop/C# Projects/11/bin/Debug/net6.0/11.deps.json
+/home/micah/Desktop/C# Projects/11/bin/Debug/net6.0/11.runtimeconfig.json
+/home/micah/Desktop/C# Projects/11/bin/Debug/net6.0/11.dll
+/home/micah/Desktop/C# Projects/11/bin/Debug/net6.0/11.pdb
+/home/micah/Desktop/C# Projects/11/obj/Debug/net6.0/11.csproj.AssemblyReference.cache
+/home/micah/Desktop/C# Projects/11/obj/Debug/net6.0/11.GeneratedMSBuildEditorConfig.editorconfig
+/home/micah/Desktop/C# Projects/11/obj/Debug/net6.0/11.AssemblyInfoInputs.cache
+/home/micah/Desktop/C# Projects/11/obj/Debug/net6.0/11.AssemblyInfo.cs
+/home/micah/Desktop/C# Projects/11/obj/Debug/net6.0/11.csproj.CoreCompileInputs.cache
+/home/micah/Desktop/C# Projects/11/obj/Debug/net6.0/11.dll
+/home/micah/Desktop/C# Projects/11/obj/Debug/net6.0/refint/11.dll
+/home/micah/Desktop/C# Projects/11/obj/Debug/net6.0/11.pdb
+/home/micah/Desktop/C# Projects/11/obj/Debug/net6.0/11.genruntimeconfig.cache
+/home/micah/Desktop/C# Projects/11/obj/Debug/net6.0/ref/11.dll
