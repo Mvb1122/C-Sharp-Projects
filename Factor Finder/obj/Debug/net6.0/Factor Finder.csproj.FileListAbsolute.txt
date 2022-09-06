@@ -1,0 +1,15 @@
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Factor Finder\bin\Debug\net6.0\Factor Finder.exe
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Factor Finder\bin\Debug\net6.0\Factor Finder.deps.json
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Factor Finder\bin\Debug\net6.0\Factor Finder.runtimeconfig.json
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Factor Finder\bin\Debug\net6.0\Factor Finder.dll
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Factor Finder\bin\Debug\net6.0\Factor Finder.pdb
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Factor Finder\obj\Debug\net6.0\Factor Finder.csproj.AssemblyReference.cache
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Factor Finder\obj\Debug\net6.0\Factor Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Factor Finder\obj\Debug\net6.0\Factor Finder.AssemblyInfoInputs.cache
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Factor Finder\obj\Debug\net6.0\Factor Finder.AssemblyInfo.cs
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Factor Finder\obj\Debug\net6.0\Factor Finder.csproj.CoreCompileInputs.cache
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Factor Finder\obj\Debug\net6.0\Factor Finder.dll
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Factor Finder\obj\Debug\net6.0\refint\Factor Finder.dll
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Factor Finder\obj\Debug\net6.0\Factor Finder.pdb
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Factor Finder\obj\Debug\net6.0\Factor Finder.genruntimeconfig.cache
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\Factor Finder\obj\Debug\net6.0\ref\Factor Finder.dll

@@ -1,0 +1,15 @@
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\DifferenceOfX-Ics\bin\Debug\net6.0\DifferenceOfX-Ics.exe
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\DifferenceOfX-Ics\bin\Debug\net6.0\DifferenceOfX-Ics.deps.json
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\DifferenceOfX-Ics\bin\Debug\net6.0\DifferenceOfX-Ics.runtimeconfig.json
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\DifferenceOfX-Ics\bin\Debug\net6.0\DifferenceOfX-Ics.dll
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\DifferenceOfX-Ics\bin\Debug\net6.0\DifferenceOfX-Ics.pdb
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\DifferenceOfX-Ics\obj\Debug\net6.0\DifferenceOfX-Ics.csproj.AssemblyReference.cache
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\DifferenceOfX-Ics\obj\Debug\net6.0\DifferenceOfX-Ics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\DifferenceOfX-Ics\obj\Debug\net6.0\DifferenceOfX-Ics.AssemblyInfoInputs.cache
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\DifferenceOfX-Ics\obj\Debug\net6.0\DifferenceOfX-Ics.AssemblyInfo.cs
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\DifferenceOfX-Ics\obj\Debug\net6.0\DifferenceOfX-Ics.csproj.CoreCompileInputs.cache
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\DifferenceOfX-Ics\obj\Debug\net6.0\DifferenceOfX-Ics.dll
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\DifferenceOfX-Ics\obj\Debug\net6.0\refint\DifferenceOfX-Ics.dll
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\DifferenceOfX-Ics\obj\Debug\net6.0\DifferenceOfX-Ics.pdb
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\DifferenceOfX-Ics\obj\Debug\net6.0\DifferenceOfX-Ics.genruntimeconfig.cache
+C:\Users\drphi\Desktop\Everything that's not Star Citizen\C-Sharp-Projects\DifferenceOfX-Ics\obj\Debug\net6.0\ref\DifferenceOfX-Ics.dll
