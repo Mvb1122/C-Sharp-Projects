@@ -15,3 +15,6 @@ A way to dynamically run code snippets at any order at runtime.
 - `.00300.02Hello World02.01001` Prints out Hello World 3 times.
 - `.00300.00300.02Hello World02.01001.01001` Prints out Hello World 9 times.
 - `.00300.02".00300.02Hello World02.01001"02.01001` Prints out the code `.00300.02Hello World02.01001` three times.
+
+# Guide video:
+![](./Guide%20Video.mp4)
