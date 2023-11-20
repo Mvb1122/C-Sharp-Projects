@@ -1,0 +1,15 @@
+D:\FTP\Misc Projects\MAGIC\bin\Debug\net6.0\MAGIC.exe
+D:\FTP\Misc Projects\MAGIC\bin\Debug\net6.0\MAGIC.deps.json
+D:\FTP\Misc Projects\MAGIC\bin\Debug\net6.0\MAGIC.runtimeconfig.json
+D:\FTP\Misc Projects\MAGIC\bin\Debug\net6.0\MAGIC.dll
+D:\FTP\Misc Projects\MAGIC\bin\Debug\net6.0\MAGIC.pdb
+D:\FTP\Misc Projects\MAGIC\obj\Debug\net6.0\MAGIC.csproj.AssemblyReference.cache
+D:\FTP\Misc Projects\MAGIC\obj\Debug\net6.0\MAGIC.GeneratedMSBuildEditorConfig.editorconfig
+D:\FTP\Misc Projects\MAGIC\obj\Debug\net6.0\MAGIC.AssemblyInfoInputs.cache
+D:\FTP\Misc Projects\MAGIC\obj\Debug\net6.0\MAGIC.AssemblyInfo.cs
+D:\FTP\Misc Projects\MAGIC\obj\Debug\net6.0\MAGIC.csproj.CoreCompileInputs.cache
+D:\FTP\Misc Projects\MAGIC\obj\Debug\net6.0\MAGIC.dll
+D:\FTP\Misc Projects\MAGIC\obj\Debug\net6.0\refint\MAGIC.dll
+D:\FTP\Misc Projects\MAGIC\obj\Debug\net6.0\MAGIC.pdb
+D:\FTP\Misc Projects\MAGIC\obj\Debug\net6.0\MAGIC.genruntimeconfig.cache
+D:\FTP\Misc Projects\MAGIC\obj\Debug\net6.0\ref\MAGIC.dll
