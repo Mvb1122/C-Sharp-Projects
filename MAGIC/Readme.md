@@ -17,4 +17,4 @@ A way to dynamically run code snippets at any order at runtime.
 - `.00300.02".00300.02Hello World02.01001"02.01001` Prints out the code `.00300.02Hello World02.01001` three times.
 
 # Guide video:
-![](./Guide%20Video.mp4)
+[Link](./Guide%20Video.mp4)
