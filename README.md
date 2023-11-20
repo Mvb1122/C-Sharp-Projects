@@ -6,4 +6,4 @@ There's a link to each thing of note's REPL inside of each of them, so you can r
 Also, I provide these projects as Visual Studio 2022 projects, so you can just download a directory and get the loadout from the project.
 
 # Projects of note
-- [MAGIC system](MAGIC\Readme.md) for running pre-included code snippets dynamically.
+- [MAGIC system](MAGIC/Readme.md) for running pre-included code snippets dynamically.
